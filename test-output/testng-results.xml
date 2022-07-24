@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-24T20:24:45 IST" name="Suite" finished-at="2022-07-24T20:26:28 IST" duration-ms="103443">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T20:24:45 IST" name="Test" finished-at="2022-07-24T20:26:28 IST" duration-ms="103443">
+      <class name="TestClass.EndtoEndTesting">
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:24:45 IST" name="LauchBrowser" finished-at="2022-07-24T20:24:55 IST" duration-ms="10225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:24:55 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T20:25:12 IST" duration-ms="16698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=888, Product_startdate=12/12/2022, PriceValidation_Gold=696.00, Insurant_City=Chennai, TC No=1, Vehicle_Annual Mileage=100, Product_insurancesum= 5.000.000,00, Vehicle_Date of Manufacture=09/04/2019, Insurant_Hobby=speeding,Other, SelectOption=Silver, Insurant_Street=41 Mani Street, PriceValidation_Ultimate=2,604.00, PriceValidation_Silver=236.00, Vehicle_Make=Honda, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=666, Vehicle_Model=Motorcycle, Insurant_country=India, Insurant_zipcode=600050, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Honda MotorCycle, Vehicle_CylinderCapacity=333, PriceValidation_Platinum=1,367.00, Insurant_FirstName=Prakash, Insurant_birthdate=12/15/1996, Insurant_gender=Male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:12 IST" name="tearDown" finished-at="2022-07-24T20:25:12 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:12 IST" name="LauchBrowser" finished-at="2022-07-24T20:25:20 IST" duration-ms="7896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:20 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T20:25:37 IST" duration-ms="16579" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=888, Product_startdate=12/11/2022, PriceValidation_Gold=772.00, Insurant_City=Madurai, TC No=2, Vehicle_Annual Mileage=100, Product_insurancesum= 20.000.000,00, Vehicle_Date of Manufacture=09/04/2001, Insurant_Hobby=speeding,Other, SelectOption=Gold, Insurant_Street=62 Ganesh Street, PriceValidation_Ultimate=2,626.00, PriceValidation_Silver=702.00, Vehicle_Make=Volvo, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=900, Vehicle_Model=Scooter, Insurant_country=India, Insurant_zipcode=600450, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Volvo Scooter, Vehicle_CylinderCapacity=900, PriceValidation_Platinum=1,379.00, Insurant_FirstName=Seema, Insurant_birthdate=12/12/1977, Insurant_gender=Female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:37 IST" name="tearDown" finished-at="2022-07-24T20:25:37 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:37 IST" name="LauchBrowser" finished-at="2022-07-24T20:25:46 IST" duration-ms="9250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:25:46 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T20:26:03 IST" duration-ms="16787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=1000, Product_startdate=12/10/2022, PriceValidation_Gold=87.00, Insurant_City=Kristianstad, TC No=3, Vehicle_Annual Mileage=100, Product_insurancesum= 3.000.000,00, Vehicle_Date of Manufacture=09/04/1989, Insurant_Hobby=speeding,Other, SelectOption=Ultimate, Insurant_Street=15 John Street, PriceValidation_Ultimate=1,025.00, PriceValidation_Silver=258.00, Vehicle_Make=Ford, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=100, Vehicle_Model=Moped, Insurant_country=Sweden, Insurant_zipcode=444061, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Ford Moped, Vehicle_CylinderCapacity=100, PriceValidation_Platinum=507.00, Insurant_FirstName=Savali, Insurant_birthdate=12/12/1956, Insurant_gender=Female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@35beb15e]" started-at="2022-07-24T20:26:03 IST" name="tearDown" finished-at="2022-07-24T20:26:04 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass.EndtoEndTesting -->
+      <class name="TestClass.ErrorTesting">
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:04 IST" name="LauchBrowser" finished-at="2022-07-24T20:26:10 IST" duration-ms="6088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="VerifyDropDown_Model()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:10 IST" name="VerifyDropDown_Model" finished-at="2022-07-24T20:26:12 IST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDropDown_Model -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:12 IST" name="tearDown" finished-at="2022-07-24T20:26:12 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:12 IST" name="LauchBrowser" finished-at="2022-07-24T20:26:18 IST" duration-ms="6046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="VerifyDropDown__Make()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:18 IST" name="VerifyDropDown__Make" finished-at="2022-07-24T20:26:20 IST" duration-ms="1931" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[This List is not Same: Lists differ at element [1]: Aud != Audi expected [Aud] but found [Audi]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: This List is not Same: Lists differ at element [1]: Aud != Audi expected [Aud] but found [Audi]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:1103)
+at TestClass.ErrorTesting.VerifyDropDown__Make(ErrorTesting.java:54)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDropDown__Make -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:20 IST" name="tearDown" finished-at="2022-07-24T20:26:21 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:21 IST" name="LauchBrowser" finished-at="2022-07-24T20:26:26 IST" duration-ms="5721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="errorMsg_CylinderCap()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:26 IST" name="errorMsg_CylinderCap" finished-at="2022-07-24T20:26:28 IST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMsg_CylinderCap -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.ErrorTesting@6c345c5f]" started-at="2022-07-24T20:26:28 IST" name="tearDown" finished-at="2022-07-24T20:26:28 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass.ErrorTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

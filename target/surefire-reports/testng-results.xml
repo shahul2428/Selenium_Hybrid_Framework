@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-24T17:03:17 IST" name="Suite" finished-at="2022-07-24T17:04:42 IST" duration-ms="85002">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T17:03:17 IST" name="Test" finished-at="2022-07-24T17:04:42 IST" duration-ms="85002">
+      <class name="TestClass.EndtoEndTesting">
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:03:17 IST" name="LauchBrowser" finished-at="2022-07-24T17:03:30 IST" duration-ms="13109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:03:30 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T17:03:47 IST" duration-ms="16864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=888, Product_startdate=12/12/2022, PriceValidation_Gold=696.00, Insurant_City=Chennai, TC No=1, Vehicle_Annual Mileage=100, Product_insurancesum= 5.000.000,00, Vehicle_Date of Manufacture=09/04/2019, Insurant_Hobby=speeding,Other, SelectOption=Silver, Insurant_Street=41 Mani Street, PriceValidation_Ultimate=2,604.00, PriceValidation_Silver=236.00, Vehicle_Make=Honda, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=666, Vehicle_Model=Motorcycle, Insurant_country=India, Insurant_zipcode=600050, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Honda MotorCycle, Vehicle_CylinderCapacity=333, PriceValidation_Platinum=1,367.00, Insurant_FirstName=Prakash, Insurant_birthdate=12/15/1996, Insurant_gender=Male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:03:47 IST" name="tearDown" finished-at="2022-07-24T17:03:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:03:47 IST" name="LauchBrowser" finished-at="2022-07-24T17:03:58 IST" duration-ms="11226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:03:58 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T17:04:16 IST" duration-ms="17460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=888, Product_startdate=12/11/2022, PriceValidation_Gold=772.00, Insurant_City=Madurai, TC No=2, Vehicle_Annual Mileage=100, Product_insurancesum= 20.000.000,00, Vehicle_Date of Manufacture=09/04/2001, Insurant_Hobby=speeding,Other, SelectOption=Gold, Insurant_Street=62 Ganesh Street, PriceValidation_Ultimate=2,626.00, PriceValidation_Silver=702.00, Vehicle_Make=Volvo, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=900, Vehicle_Model=Scooter, Insurant_country=India, Insurant_zipcode=600450, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Volvo Scooter, Vehicle_CylinderCapacity=900, PriceValidation_Platinum=1,379.00, Insurant_FirstName=Seema, Insurant_birthdate=12/12/1977, Insurant_gender=Female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:04:16 IST" name="tearDown" finished-at="2022-07-24T17:04:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:04:16 IST" name="LauchBrowser" finished-at="2022-07-24T17:04:23 IST" duration-ms="7586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="InsuranceCalcu(java.lang.Object)[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:04:23 IST" name="InsuranceCalcu" data-provider="vehicledata" finished-at="2022-07-24T17:04:42 IST" duration-ms="18169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_List Price=1000, Product_startdate=12/10/2022, PriceValidation_Gold=87.00, Insurant_City=Kristianstad, TC No=3, Vehicle_Annual Mileage=100, Product_insurancesum= 3.000.000,00, Vehicle_Date of Manufacture=09/04/1989, Insurant_Hobby=speeding,Other, SelectOption=Ultimate, Insurant_Street=15 John Street, PriceValidation_Ultimate=1,025.00, PriceValidation_Silver=258.00, Vehicle_Make=Ford, Insurant_occupation=Farmer, Vehicle_No of Seats_motorcycle=2, Insurant_LastName=NNN, Product_OptionalProducts=Euro Protection, Vehicle_Enging Performance=100, Vehicle_Model=Moped, Insurant_country=Sweden, Insurant_zipcode=444061, Product_damageinsurance=Partial Coverage, TC Name=Verify Insurance Premium for Ford Moped, Vehicle_CylinderCapacity=100, PriceValidation_Platinum=507.00, Insurant_FirstName=Savali, Insurant_birthdate=12/12/1956, Insurant_gender=Female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsuranceCalcu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.EndtoEndTesting@2cf92cc7]" started-at="2022-07-24T17:04:42 IST" name="tearDown" finished-at="2022-07-24T17:04:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass.EndtoEndTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
